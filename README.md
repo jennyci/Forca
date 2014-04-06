@@ -1,11 +1,11 @@
-Forca
+﻿Forca
 =====
 
 
 
 Esse jogo foi criado por Jennifer Cintra e Davi Santos Meneses.
 
-Para que o código possa ser compilado é necessário o netbeans 8.0 e que o projeto forca esteja aberto no netbeans.
+Para que o código possa ser compilado é necessário o netbeans e que o projeto forca esteja aberto no netbeans. Para que posso compilar o jogo é necessário que a classe Programa esteja na pasta Forca.
 
 O jogo precisa que sejam digitadas 3 letras maiúsculas.
  
